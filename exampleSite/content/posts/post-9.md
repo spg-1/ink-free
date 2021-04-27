@@ -1,7 +1,7 @@
 ---
 title: "What I think of Oscars in 2021"
-date: 2021-04-27 T12:13:30+05:30
-tags: [Space]
+date: 2021-04-27T12:13:30+05:30
+tags: [Oscars, Algorithms, Entertainment]
 ---
 I recently read an article on Economist about the current state of Oscars in 2021 and how the viewership has been changing, decreasing over the last few years. 
 When I was kid, I got to watch TV for around 1hr a day. I could watch anything - Cartoons, Sports, WWE/WWF and Music Videos were my thing. Watching MTV back then, you could 
