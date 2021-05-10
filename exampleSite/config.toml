@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Ink-Free"
+title = "RCVD Blog"
 theme = "ink-free"
 paginate = 5
 
